@@ -3,7 +3,7 @@ services:
   app:
     container_name: hugo
     image: klakegg/hugo:ext-ubuntu
-    command: server
+    command: server -s /src/my-site/
     volumes:
             - ".:/src"
     ports:
