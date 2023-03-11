@@ -1,5 +1,5 @@
 baseURL = "http://www.example.com"
-title = "Szczepaniak"
+title = "Jakub Szczepaniak"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
@@ -161,32 +161,3 @@ name = "Contact me"
 weight = 5
 url = "contact/"
 
-[languages.pl]
-languageName = ":pl:"
-title = "Jakub Szczepaniak"
-
-[languages.pl.params]
-author = "Jakub Szczepaniak"
-info = "Full Stack DevOps e Mágico"
-description = "Moja przestrzen w sieci"
-keywords = "blog,desenvolvedor,pessoal"
-
-[[languages.pl.menu.main]]
-name = "O mnie"
-weight = 1
-url = "about/"
-
-[[languages.pl.menu.main]]
-name = "Blog"
-weight = 2
-url = "posts/"
-
-[[languages.pl.menu.main]]
-name = "Projekty"
-weight = 3
-url = "projects/"
-
-[[languages.pl.menu.main]]
-name = "Kontakt"
-weight = 5
-url = "contact/"
