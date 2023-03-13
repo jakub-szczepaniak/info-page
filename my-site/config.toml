@@ -130,14 +130,6 @@ icon = "fa fa-2x fa-linkedin"
 weight = 2
 url = "https://www.linkedin.com/in/jakub-szczepaniak/"
 
-[[params.social]]
-name = "RSS"
-icon = "fa fa-2x fa-rss"
-weight = 6
-url = "https://myhugosite.com/index.xml"
-rel = "alternate"
-type = "application/rss+xml"
-
 [languages.en]
 languageName = ":uk:"
 
