@@ -2,6 +2,7 @@
 title: "Welcome"
 date: 2023-03-11T20:55:34Z
 draft: false
+type: Post
 ---
 
 Hi there, I am Jakub Szczepaniak, a localisation specialist and software developer based in Berlin, Germany, with over 10 years of experience.
